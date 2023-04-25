@@ -1,3 +1,6 @@
+//Write a program to calculate Simple Interest input by the user. Simple Interest = P*T*R/100
+
+
 import java.util.Scanner;
 
 public class Q5 {
@@ -5,6 +8,11 @@ public static void main(String[] args) {
 	areaTriangle();
 	areaRectangle();
 	areaTriangle();
+}
+
+public static String readLine() {
+	Scanner sc= new Scanner(System.in);
+	return sc.nextLine();
 }
 
 
@@ -48,10 +56,7 @@ public static void areaTriangle() {
 	
 }
 
-public static String readLine() {
-	Scanner sc= new Scanner(System.in);
-	return sc.nextLine();
-}
+
 
 
 

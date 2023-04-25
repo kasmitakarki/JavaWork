@@ -1,4 +1,6 @@
-
+/*Write a program to find the perimeter of a circle,
+  triangle, and rectangle.
+ */
 public class Q7 {
 public static void main(String[] args) {
 	circlePeri();

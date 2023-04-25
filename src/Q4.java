@@ -1,3 +1,6 @@
+//Write a program to calculate Simple Interest input by the user. Simple Interest = P*T*R/100
+
+
 import java.util.Scanner;
 
 public class Q4 {

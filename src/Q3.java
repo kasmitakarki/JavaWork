@@ -1,3 +1,5 @@
+//Write a program to find sum and average of two numbers input 
+
 import java.util.Scanner;
 
 
