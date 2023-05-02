@@ -3,5 +3,9 @@
 
 
 public class Q15 {
-
+	public static void main(String[] args) {
+		int ascicode= 97;
+		char character= (char)ascicode;
+		System.out.println(character);
+	}
 }
